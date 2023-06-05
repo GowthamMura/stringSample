@@ -3,6 +3,7 @@ package org.hcl;
 public class createPin {
 private void username() {
 	System.out.println("enter the user name");
+	System.out.println("enter the user name");
 
 }
 private void password() {
